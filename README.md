@@ -6,7 +6,6 @@
 #### **README Contents:**
 1. [Deployed Site Link](#Deployed-Site-Link)  
 1. [Repository Links](#Repository-Links)
-1. [Installation](#Instalation)
 1. [Part A Link](#Part-A)
 
     - [Project Purpose](#Purpose)  
