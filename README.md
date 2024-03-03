@@ -13,11 +13,16 @@
 
 
 ### Deployed Site Link
+- Front End - UI
+[Greenthumb-Front End Repo](https://main--profound-cobbler-e9917b.netlify.app/)
+- Back End - (API)
+[Greenthumb-Back End Repo](https://greenthumb-backend.onrender.com/)
+
 
 ### Repository Links
-#### Front End
+- Front End
 [Greenthumb-Front End Repo](https://github.com/gthumbcah/GreenThumb-Frontend)
-#### Back End
+- Back End
 [Greenthumb-Back End Repo](https://github.com/gthumbcah/GreenThumb-Backend)
 ### Part A
 [Greenthumb Part-A readme.MD](https://github.com/huttadam/GreenThumb-PartA/blob/main/README.md)
