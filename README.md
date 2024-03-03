@@ -23,6 +23,13 @@
 [Greenthumb Part-A readme.MD](https://github.com/huttadam/GreenThumb-PartA/blob/main/README.md)
 
 ### User Testing
+Below are some examples of user testing completed on the applciation of GreenThumb.
+![example1](./docs/test_photos/ut1.png)
+![example2](./docs/test_photos/ut2.png)
+![example3](./docs/test_photos/ut3.png)
+![example4](./docs/test_photos/ut4.png)
+![example5](./docs/test_photos/ut5.png)
+
 
 ### Project Management
 
@@ -33,8 +40,8 @@
 More comprehensive evidence in docs file.
 ##### Part A
 ![Day 1](./docs/trello_screenshots/partA/1--%202024-02-12%20at%2014.07.00.png)
-![Day 2](./docs/trello_screenshots/partA/2--%202024-02-12%20at%2014.08.31.png)
-![Day 3](/docs/trello_screenshots/partA/3--%202024-02-13%20at%2013.24.59.png)
+![Day 2](./docs/trello_screenshots/partA/2--%202024-02-13%20at%209.49.52.png)
+![Day 3](/docs/trello_screenshots/partA/3--%202024-02-14%20at%2016.39.35.png)
 ![Day 4](/docs/trello_screenshots/partA/4--%202024-02-15%20at%209.04.21.png)
 ![Day 5](/docs/trello_screenshots/partA/5--%202024-02-16%20at%2012.09.19.png)
 ![Day 6](/docs/trello_screenshots/partA/6--%202024-02-18%20at%2016.15.33.png)
