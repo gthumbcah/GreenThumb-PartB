@@ -34,8 +34,23 @@
 - Front End - UI
 [Greenthumb-Front End Repo](https://main--profound-cobbler-e9917b.netlify.app/)
 
-Please use john@email.com for manager access / pw : john
-Please use sally@email.com for employee access / pw : sally
+#### Please use below as manager account access:
+```bash
+john@email.com
+```
+PW:
+```bash
+john
+```
+
+#### Please use the below for employee account access:
+```bash
+sally@email.com
+```
+PW:
+```bash
+sally
+```
 
 - Back End - (API)
 [Greenthumb-Back End Repo](https://greenthumb-backend.onrender.com/)
