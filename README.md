@@ -24,7 +24,7 @@
 
 ### User Testing
 Below are some examples of user testing completed on the applciation of GreenThumb.
-![example1](./docs/test_photos/ut1.png)
+![UserTesting1](./docs/trello_screenshots/partB/UserTesting1)
 ![example2](./docs/test_photos/ut2.png)
 ![example3](./docs/test_photos/ut3.png)
 ![example4](./docs/test_photos/ut4.png)
