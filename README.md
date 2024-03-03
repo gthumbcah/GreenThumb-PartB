@@ -15,6 +15,10 @@
 ### Deployed Site Link
 - Front End - UI
 [Greenthumb-Front End Repo](https://main--profound-cobbler-e9917b.netlify.app/)
+
+Please use john@email.com for manager access / pw : john
+Please use sally@email.com for employee access / pw : sally
+
 - Back End - (API)
 [Greenthumb-Back End Repo](https://greenthumb-backend.onrender.com/)
 
